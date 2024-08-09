@@ -43,6 +43,10 @@ Welcome to the showcase of my personal computer build! Below is a detailed break
 ### **USB Hub**  
 - **Model:** [JoyReken 4-Port USB 3.0 Hub, FlyingVHUB Vertical Data USB Hub (Pink)](https://www.amazon.com/JoyReken-FlyingVHUB-Vertical-Extended-Surface/dp/B0B58BJ4XG/ref=asc_df_B0B58BJ4XG/?tag=hyprod-20&linkCode=df0&hvadid=692875362841&hvpos=&hvnetw=g&hvrand=15221004092893759335&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9007730&hvtargid=pla-2281435178298&psc=1&mcid=b1b997c9a0b7343095fec56a28c82139&hvocijid=15221004092893759335-B0B58BJ4XG-&hvexpln=73&gad_source=1)
 
+### **Wrist Rest**  
+- **Model:** [Qloud Cloud Wrist Rest Keyboard – Cloud Palm Rest Keyboard Rest Desk Cloud Wrist Pad](https://www.amazon.com/Qloud-Cloud-Wrist-Rest-Keyboard/dp/B0C4GT64G6)
+  - **Features:** Cloud Arm Rest, Light Blue
+
 ## 💻 **Operating System**
 
 - **OS:** Windows 11
