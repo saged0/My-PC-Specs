@@ -4,6 +4,12 @@ Welcome to the showcase of my personal computer build! Below is a detailed break
 
 ## 🖥️ **System Overview**
 
+### **Case**  
+- **Model:** [Lian Li LANCOOL III ATX Mid Tower Case](https://lian-li.com/product/lancool-iii/)
+
+### **Motherboard**  
+- **Model:** [Asus ROG STRIX B650E-F GAMING WIFI ATX AM5 Motherboard](https://rog.asus.com/us/motherboards/rog-strix/rog-strix-b650e-f-gaming-wifi-model/)
+
 ### **GPU**  
 - **Model:** [PowerColor Fighter OC Radeon RX 7900 GRE 16 GB Video Card](https://www.powercolor.com/product?id=1702628840)
   
@@ -13,18 +19,12 @@ Welcome to the showcase of my personal computer build! Below is a detailed break
 ### **CPU Cooler**  
 - **Model:** [Cooler Master Hyper 212 Halo 51.88 CFM CPU Cooler](https://www.coolermaster.com/en-us/products/hyper-212-halo-black/)
 
-### **Motherboard**  
-- **Model:** [Asus ROG STRIX B650E-F GAMING WIFI ATX AM5 Motherboard](https://rog.asus.com/us/motherboards/rog-strix/rog-strix-b650e-f-gaming-wifi-model/)
-
 ### **Memory**  
 - **Model:** [Corsair Vengeance RGB 32 GB (2 x 16 GB) DDR5-6000 CL36 Memory](https://www.corsair.com/us/en/p/memory/cmh32gx5m2d6000c36/vengeance-rgb-32gb-2x16gb-ddr5-dram-6000mhz-c36-memory-kit-black-cmh32gx5m2d6000c36)
 
 ### **Storage**  
 - **HDD:** [Seagate BarraCuda 4 TB 3.5" 5400 RPM Internal Hard Drive](https://www.seagate.com/products/hard-drives/barracuda-hard-drive/)
 - **SSD:** [Samsung 990 Pro 4 TB M.2-2280 PCIe 4.0 X4 NVME Solid State Drive](https://www.samsung.com/us/computing/memory-storage/solid-state-drives/990-pro-pcie-4-0-nvme-ssd-4tb-mz-v9p4t0b-am/)
-
-### **Case**  
-- **Model:** [Lian Li LANCOOL III ATX Mid Tower Case](https://lian-li.com/product/lancool-iii/)
 
 ### **Power Supply**  
 - **Model:** [be quiet! Pure Power 12 M 850 W 80+ Gold Certified Fully-Modular ATX Power Supply](https://www.bequiet.com/en/powersupply/4162)
