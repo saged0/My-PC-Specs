@@ -4,44 +4,44 @@ Welcome to the showcase of my personal computer build! Below is a detailed break
 
 ## 🖥️ **System Overview**
 
+### **GPU**  
+- **Model:** [PowerColor Fighter OC Radeon RX 7900 GRE 16 GB Video Card](https://www.powercolor.com/product?id=1702628840)
+  
 ### **CPU**  
-- **Model:** [AMD Ryzen 7 7800X3D 4.2 GHz 8-Core Processor](https://www.amd.com/en/products/cpu/amd-ryzen-7-7800x3d)
+- **Model:** [AMD Ryzen 7 7800X3D 4.2 GHz 8-Core Processor](https://shop-us-en.amd.com/amd-ryzen-7-7800x3d-processor/)
 
 ### **CPU Cooler**  
-- **Model:** [Cooler Master Hyper 212 Halo 51.88 CFM CPU Cooler](https://www.coolermaster.com/catalog/coolers/cpu-air-cooler/hyper-212-halo/)
+- **Model:** [Cooler Master Hyper 212 Halo 51.88 CFM CPU Cooler](https://www.coolermaster.com/en-us/products/hyper-212-halo-black/)
 
 ### **Motherboard**  
-- **Model:** [Asus ROG STRIX B650E-F GAMING WIFI ATX AM5 Motherboard](https://www.asus.com/Motherboards/ROG-STRIX-B650E-F-GAMING-WIFI/)
+- **Model:** [Asus ROG STRIX B650E-F GAMING WIFI ATX AM5 Motherboard](https://rog.asus.com/us/motherboards/rog-strix/rog-strix-b650e-f-gaming-wifi-model/)
 
 ### **Memory**  
-- **Model:** [Corsair Vengeance RGB 32 GB (2 x 16 GB) DDR5-6000 CL36 Memory](https://www.corsair.com/us/en/Categories/Products/Memory/VENGEANCE-RGB-DDR5-32GB--2-x-16GB--6000MHz/p/CMH32GX5M2D6000C36)
+- **Model:** [Corsair Vengeance RGB 32 GB (2 x 16 GB) DDR5-6000 CL36 Memory](https://www.corsair.com/us/en/p/memory/cmh32gx5m2d6000c36/vengeance-rgb-32gb-2x16gb-ddr5-dram-6000mhz-c36-memory-kit-black-cmh32gx5m2d6000c36)
 
 ### **Storage**  
-- **HDD:** [Seagate BarraCuda 4 TB 3.5" 5400 RPM Internal Hard Drive](https://www.seagate.com/internal-hard-drives/hdd/barra-cuda/)
-- **SSD:** [Samsung 990 Pro 4 TB M.2-2280 PCIe 4.0 X4 NVME Solid State Drive](https://www.samsung.com/semiconductor/minisite/ssd/product/consumer/990pro/)
-
-### **Video Card**  
-- **Model:** [PowerColor Fighter OC Radeon RX 7900 GRE 16 GB Video Card](https://www.powercolor.com/product?id=129)
+- **HDD:** [Seagate BarraCuda 4 TB 3.5" 5400 RPM Internal Hard Drive](https://www.seagate.com/products/hard-drives/barracuda-hard-drive/)
+- **SSD:** [Samsung 990 Pro 4 TB M.2-2280 PCIe 4.0 X4 NVME Solid State Drive](https://www.samsung.com/us/computing/memory-storage/solid-state-drives/990-pro-pcie-4-0-nvme-ssd-4tb-mz-v9p4t0b-am/)
 
 ### **Case**  
-- **Model:** [Lian Li LANCOOL III ATX Mid Tower Case](https://www.lian-li.com/lancool-iii/)
+- **Model:** [Lian Li LANCOOL III ATX Mid Tower Case](https://lian-li.com/product/lancool-iii/)
 
 ### **Power Supply**  
-- **Model:** [be quiet! Pure Power 12 M 850 W 80+ Gold Certified Fully-Modular ATX Power Supply](https://www.bequiet.com/en/power-supplies/1734)
+- **Model:** [be quiet! Pure Power 12 M 850 W 80+ Gold Certified Fully-Modular ATX Power Supply](https://www.bequiet.com/en/powersupply/4162)
 
 ## 🎮 **Peripherals**
 
 ### **Monitor**  
-- **Model:** [LG 27GL83A-B 27.0" 2560 x 1440 144 Hz Monitor](https://www.lg.com/us/monitors/lg-27GL83A-B)
+- **Model:** [LG 27GL83A-B 27.0" 2560 x 1440 144 Hz Monitor](https://www.lg.com/us/monitors/lg-27gl83a-b-gaming-monitor)
 
 ### **Keyboard**  
-- **Model:** [Redragon K512 Shiva RGB Backlit Membrane Gaming Keyboard](https://redragonshop.com/products/redragon-k512-shiva-rgb-backlit-membrane-gaming-keyboard)
+- **Model:** [Redragon K512 Shiva RGB Backlit Membrane Gaming Keyboard](https://www.redragonzone.com/products/redragon-k512-shiva-white-rgb-backlit-membrane-gaming-keyboard-with-multimedia-keys)
 
 ### **Mouse**  
-- **Model:** [Redragon M602 Griffin RGB Gaming Mouse](https://redragonshop.com/products/redragon-m602-griffin-rgb-gaming-mouse)
+- **Model:** [Redragon M602 Griffin RGB Gaming Mouse](https://redragonusa.com/product/13/mice/M602W)
 
 ### **USB Hub**  
-- **Model:** [JoyReken 4-Port USB 3.0 Hub, FlyingVHUB Vertical Data USB Hub (Pink)](https://www.joyreken.com/products/4-port-usb-3-0-hub)
+- **Model:** [JoyReken 4-Port USB 3.0 Hub, FlyingVHUB Vertical Data USB Hub (Pink)](https://www.amazon.com/JoyReken-FlyingVHUB-Vertical-Extended-Surface/dp/B0B58BJ4XG/ref=asc_df_B0B58BJ4XG/?tag=hyprod-20&linkCode=df0&hvadid=692875362841&hvpos=&hvnetw=g&hvrand=15221004092893759335&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9007730&hvtargid=pla-2281435178298&psc=1&mcid=b1b997c9a0b7343095fec56a28c82139&hvocijid=15221004092893759335-B0B58BJ4XG-&hvexpln=73&gad_source=1)
 
 ## 💻 **Operating System**
 
