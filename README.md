@@ -45,7 +45,6 @@ Welcome to the showcase of my personal computer build! Below is a detailed break
 
 ### **Wrist Rest**  
 - **Model:** [Qloud Cloud Wrist Rest Keyboard – Cloud Palm Rest Keyboard Rest Desk Cloud Wrist Pad](https://www.amazon.com/Qloud-Cloud-Wrist-Rest-Keyboard/dp/B0C4GT64G6)
-  - **Features:** Cloud Arm Rest, Light Blue
 
 ## 💻 **Operating System**
 
