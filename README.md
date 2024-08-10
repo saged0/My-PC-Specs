@@ -1,8 +1,8 @@
 # My PC Specs
 
 Welcome to the showcase of my personal computer build! Below is a detailed breakdown of the hardware components that support my projects and gaming experiences.
-<div align="center">
-  <img src="https://drive.google.com/uc?export=view&id=1W1G_MV479CkCtAt1Yq6cyqeTvhPuHgoZ" alt="My PC Setup" width="400"/>
+<div align="left">
+  <img src="https://drive.google.com/uc?export=view&id=1W1G_MV479CkCtAt1Yq6cyqeTvhPuHgoZ" alt="Image of my pc" width="400"/>
   <p><em>My PC Setup</em></p>
 </div>
 
