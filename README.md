@@ -1,5 +1,7 @@
 # My PC Specs
 
+![Example Image](https://drive.google.com/uc?export=view&id=1W1G_MV479CkCtAt1Yq6cyqeTvhPuHgoZ)
+
 Welcome to the showcase of my personal computer build! Below is a detailed breakdown of the hardware components that support my projects and gaming experiences.
 
 ## 🖥️ **System Overview**
