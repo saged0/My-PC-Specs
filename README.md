@@ -2,8 +2,8 @@
 
 Welcome to the showcase of my personal computer build! Below is a detailed breakdown of the hardware components that support my projects and gaming experiences.
 
-![Image 1](https://drive.google.com/uc?export=view&id=15QvqX4l4T68yVP08iApAJpQEInudHP6G)
-![Image 2](https://drive.google.com/uc?export=view&id=1W1G_MV479CkCtAt1Yq6cyqeTvhPuHgoZ)
+![Image 1](https://drive.google.com/uc?export=view&id=15QvqX4l4T68yVP08iApAJpQEInudHP6G){: style="height:83px"}
+![Image 2](https://drive.google.com/uc?export=view&id=1W1G_MV479CkCtAt1Yq6cyqeTvhPuHgoZ){: style="height:83px"}
 
 
 ## 🖥️ **System Overview**
