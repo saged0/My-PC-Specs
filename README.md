@@ -1,10 +1,17 @@
 # My PC Specs
 
 Welcome to the showcase of my personal computer build! Below is a detailed breakdown of the hardware components that support my projects and gaming experiences.
-<div align="left">
-  <img src="https://drive.google.com/uc?export=view&id=1W1G_MV479CkCtAt1Yq6cyqeTvhPuHgoZ" alt="Image of my PC" width="400"/>
-  <p><em>Image of my PC</em></p>
+<div style="display: flex; justify-content: space-between;">
+  <div>
+    <img src="https://drive.google.com/uc?export=view&id=15QvqX4l4T68yVP08iApAJpQEInudHP6G" alt="First Image" width="300"/>
+    <p><em>My PC Build</em></p>
+  </div>
+  <div>
+    <img src="https://drive.google.com/uc?export=view&id=1W1G_MV479CkCtAt1Yq6cyqeTvhPuHgoZ" alt="Second Image" width="300"/>
+    <p><em>My PC Parts</em></p>
+  </div>
 </div>
+
 
 
 ## 🖥️ **System Overview**
