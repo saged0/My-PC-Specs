@@ -2,8 +2,8 @@
 
 Welcome to the showcase of my personal computer build! Below is a detailed breakdown of the hardware components that support my projects and gaming experiences.
 <div align="left">
-  <img src="https://drive.google.com/uc?export=view&id=1W1G_MV479CkCtAt1Yq6cyqeTvhPuHgoZ" alt="Image of my pc" width="400"/>
-  <p><em>My PC Setup</em></p>
+  <img src="https://drive.google.com/uc?export=view&id=1W1G_MV479CkCtAt1Yq6cyqeTvhPuHgoZ" alt="Image of my PC" width="400"/>
+  <p><em>Image of my PC</em></p>
 </div>
 
 
