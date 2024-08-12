@@ -8,7 +8,7 @@ Welcome to the showcase of my personal computer build! Below is a detailed break
     <p><em>My PC Parts</em></p>
   </div>
   <div>
-    <img src="https://drive.google.com/file/d/1lH8n8abkpoy4fPZVwOZCuKhMVlvVMhJa/view?usp=sharing" alt="Second Image" width="300"/>
+    <img src="https://drive.google.com/uc?export=view&id=1lH8n8abkpoy4fPZVwOZCuKhMVlvVMhJa" alt="Second Image" width="300"/>
     <p><em>My PC Build</em></p>
   </div>
 </div>
